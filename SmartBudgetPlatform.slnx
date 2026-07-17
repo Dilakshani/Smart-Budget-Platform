@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="backend/SmartBudget.Api/SmartBudget.Api.csproj" Id="f2d4df1f-94d4-43c9-b238-b9ca819c4732" />
+  <Project Path="backend/SmartBudget.Core/SmartBudget.Core.csproj" Id="37d9b751-aacf-4d7e-a698-52b758501cc0" />
+  <Project Path="backend/SmartBudget.Infrastructure/SmartBudget.Infrastructure.csproj" Id="75fc6fab-26c1-435d-8ef1-3c11f8599b6b" />
+  <Project Path="tests/SmartBudget.Core.Tests/SmartBudget.Core.Tests.csproj" Id="fa0cae41-11b3-4978-bc0c-1552749d77ea" />
+</Solution>

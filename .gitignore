@@ -1,0 +1,44 @@
+## Ignore Visual Studio build files
+bin/
+obj/
+
+## Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore build results
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+## Ignore Visual Studio temp files
+.vs/
+
+## Ignore NuGet packages
+*.nupkg
+packages/
+
+## Ignore publish output
+publish/
+out/
+
+## Ignore test results
+TestResults/
+
+## Ignore node_modules for frontend
+frontend/node_modules/
+
+## Ignore environment files
+*.env
+*.env.local
+
+## Ignore coverage reports
+coverage/
+
+## Ignore OS-specific files
+Thumbs.db
+.DS_Store
